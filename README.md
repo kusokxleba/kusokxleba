@@ -3,9 +3,9 @@
 - I’m currently learning c++
 - How to reach me: email: wertgfto17@gmail.com or discord: kusochekxleba
 - Fun fact:
-- Chukcha bought a refrigerator.
-— What do you need this fridge for? You live in Siberia.
-— To warm up during winter. Imagine the joy - it`s -40 outside and +4 in the refrigerator.
+  Chukcha bought a refrigerator.
+  What do you need this fridge for? You live in Siberia.
+  To warm up during winter. Imagine the joy - it`s -40 outside and +4 in the refrigerator.
 
 <!---
 kusokxleba/kusokxleba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
